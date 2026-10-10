@@ -35,8 +35,20 @@ My goal is to become a skilled Data Analyst and gradually grow into the field of
 
 ## 📂 Projects
 
-Projects will be added here as I build them.
+## 📂 Projects
 
+### 📊 Sales Data Analysis Using Python
+A data analysis project using Python, Pandas, and Matplotlib to explore sales performance, compare products, and visualize monthly revenue.
+
+**Key Highlights:**
+- Analyzed 24 sales records.
+- Identified the top revenue-generating product.
+- Compared product and category sales.
+- Created three data visualizations.
+
+**Technologies:** Python, Pandas, Matplotlib
+
+🔗 [View Project on GitHub](https://github.com/afjulhossainhimel/sales-data-analysis)
 ## 🎯 Career Goal
 
 To build a strong career in Data Analytics, Data Science, and Artificial Intelligence.
