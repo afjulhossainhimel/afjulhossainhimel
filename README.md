@@ -35,8 +35,6 @@ My goal is to become a skilled Data Analyst and gradually grow into the field of
 
 ## 📂 Projects
 
-## 📂 Projects
-
 ### 📊 Sales Data Analysis Using Python
 A data analysis project using Python, Pandas, and Matplotlib to explore sales performance, compare products, and visualize monthly revenue.
 
